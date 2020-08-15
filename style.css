@@ -1,0 +1,10 @@
+body {
+  font-family: 'Recursive', sans-serif;
+}
+.headline {
+  background: hsl(58, 100%, 50%);
+  color:#0000ff;
+  }
+  
+  .content {background:#66ff00;
+ color:#ff033e;
